@@ -1855,3 +1855,6 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 .bf-toolbar::before {
     background: black !important;
 }
+
+.theme-dark .chat .private-channel-call {
+  background-color: #00ff00;
